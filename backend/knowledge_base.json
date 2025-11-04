@@ -1,0 +1,90 @@
+{
+	"tracks": [
+		{
+			"title": "Blinding Lights",
+			"artist": "The Weeknd",
+			"album": "After Hours",
+			"genre": "Pop",
+			"tags": ["动感", "驾驶", "流行", "夜晚", "节奏感强"]
+		},
+		{
+			"title": "Don't Start Now",
+			"artist": "Dua Lipa",
+			"album": "Future Nostalgia",
+			"genre": "Pop",
+			"tags": ["舞曲", "健身", "快乐", "流行", "女声"]
+		},
+		{
+			"title": "Believer",
+			"artist": "Imagine Dragons",
+			"album": "Evolve",
+			"genre": "Rock",
+			"tags": ["运动", "励志", "摇滚", "能量", "训练"]
+		},
+		{
+			"title": "春风十里",
+			"artist": "鹿先森乐队",
+			"album": "华年",
+			"genre": "华语民谣",
+			"tags": ["民谣", "治愈", "清新", "中文", "安静"]
+		},
+		{
+			"title": "稻香",
+			"artist": "周杰伦",
+			"album": "魔杰座",
+			"genre": "华语流行",
+			"tags": ["怀旧", "青春", "中文", "治愈", "轻松"]
+		},
+		{
+			"title": "Levitating",
+			"artist": "Dua Lipa",
+			"album": "Future Nostalgia",
+			"genre": "Pop",
+			"tags": ["dance", "happy", "upbeat", "female"]
+		},
+		{
+			"title": "Shape of You",
+			"artist": "Ed Sheeran",
+			"album": "÷ (Divide)",
+			"genre": "Pop",
+			"tags": ["catchy", "radio", "dance"]
+		},
+		{
+			"title": "Lose Yourself",
+			"artist": "Eminem",
+			"album": "8 Mile",
+			"genre": "Hip Hop",
+			"tags": ["motivational", "rap", "intense"]
+		},
+		{
+			"title": "Numb",
+			"artist": "Linkin Park",
+			"album": "Meteora",
+			"genre": "Rock",
+			"tags": ["alternative", "emo", "guitar", "intense"]
+		},
+		{
+			"title": "bad guy",
+			"artist": "Billie Eilish",
+			"album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+			"genre": "Pop",
+			"tags": ["dark", "bass", "alternative", "quirky"]
+		},
+		{
+			"title": "River Flows in You",
+			"artist": "Yiruma",
+			"album": "First Love",
+			"genre": "Classical",
+			"tags": ["piano", "relax", "instrumental", "calm"]
+		},
+		{
+			"title": "Stay",
+			"artist": "The Kid LAROI & Justin Bieber",
+			"album": "Stay",
+			"genre": "Pop",
+			"tags": ["catchy", "duet", "radio"]
+		}
+	]
+}
+
+
